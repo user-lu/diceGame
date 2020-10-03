@@ -1,0 +1,29 @@
+body {
+    background-color: #41444b;
+}
+
+
+h1, section, button, footer {
+    font-family: 'Sansita Swashed', cursive;
+    color: white;
+}
+
+.red-color {
+    color: #cd0a0a;
+}
+
+.img1 .img2 {
+    text-align: center;
+    display: inline-block;
+}
+
+.footer {
+    position: relative;
+    clear:both;
+    padding-top: 100px;
+    margin-top: 100px;
+ } 
+
+/* button { 
+    background-color: #cd0a0a;
+} */
